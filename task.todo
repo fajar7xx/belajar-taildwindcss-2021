@@ -1,0 +1,27 @@
+tutorial:
+    ✔ video 1 @done(21-09-30 10:43)
+    ✔ video 2 @done(21-09-30 10:43)
+    ✔ video 3 Proses Install dan Config TailwindCSS https://youtu.be/Fjnuzm_8-cw?list=PLv5THqgTy8I19Wn4CH6k97WrhJml2CwKC @done(21-09-30 10:43)
+    ✔ video 4 Cara Merubah Configurasi Theme Tailwind https://youtu.be/oAWb0QC48Zs?list=PLv5THqgTy8I19Wn4CH6k97WrhJml2CwKC @done(21-09-30 10:43)
+    ☐ video 5 Cara Import Plugin TailwindCSS https://youtu.be/izlQWy0WM2A?list=PLv5THqgTy8I19Wn4CH6k97WrhJml2CwKC
+    ☐ video 6
+    ☐ video 7
+    ☐ video 8
+    ☐ video 9
+    ☐ video 10
+    ☐ video 11
+    ☐ video 12
+    ☐ video 13
+    ☐ video 14
+    ☐ video 15
+    ☐ video 16
+    ☐ video 17
+    ☐ video 18
+    ☐ video 19
+    ☐ video 20
+
+langkah2:
+    ☐ buat npm init
+    ☐ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+    ☐ Add Tailwind as a PostCSS plugin - postcss.config.js
+    ☐ Create your configuration file (tailwind configuration) - npx tailwindcss init
